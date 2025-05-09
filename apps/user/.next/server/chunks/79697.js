@@ -1,0 +1,1 @@
+"use strict";exports.id=79697,exports.ids=[79697],exports.modules={79697:s=>{s.exports=JSON.parse('{"all":"\xd6sszes","document":"dokumentum","read":"olvas\xe1s","tutorial":"bemutat\xf3"}')}};

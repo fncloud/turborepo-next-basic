@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7603],{47603:e=>{e.exports=JSON.parse('{"accountBalance":"Баланс рахунку","commission":"Комісія","copyInviteLink":"Скопіювати посилання запрошення","copySuccess":"Посилання для запрошення успішно скопійовано","giftAmount":"Сума подарунка","inviteCode":"Код запрошення","recharge":"Поповнення"}')}}]);

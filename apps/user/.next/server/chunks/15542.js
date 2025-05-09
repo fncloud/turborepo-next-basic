@@ -1,0 +1,1 @@
+"use strict";exports.id=15542,exports.ids=[15542],exports.modules={15542:e=>{e.exports=JSON.parse('{"accountBalance":"खाता शेष","commission":"आयोग","copyInviteLink":"आमंत्रण लिंक कॉपी करें","copySuccess":"आमंत्रण लिंक सफलतापूर्वक कॉपी हो गई","giftAmount":"उपहार राशि","inviteCode":"आमंत्रण कोड","recharge":"रिचार्ज"}')}};

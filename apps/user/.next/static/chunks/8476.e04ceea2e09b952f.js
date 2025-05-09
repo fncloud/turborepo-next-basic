@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8476],{58476:e=>{e.exports=JSON.parse('{"amount":"राशि","assetOverview":"संपत्ति अवलोकन","balance":"शेष","commission":"आयोग","createdAt":"समय","giftAmount":"उपहार राशि","totalAssets":"संपत्ति अवलोकन","type":{"0":"प्रकार","1":"रिचार्ज","2":"निकासी","3":"खरीद","4":"वापसी","5":"इनाम","6":"कमीशन"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9999],{89999:e=>{e.exports=JSON.parse('{"amount":"金额","assetOverview":"资产概览","balance":"余额","commission":"佣金","createdAt":"时间","giftAmount":"赠送金额","totalAssets":"资产概览","type":{"0":"类型","1":"充值","2":"提取","3":"购买","4":"退款","5":"奖励","6":"佣金"}}')}}]);

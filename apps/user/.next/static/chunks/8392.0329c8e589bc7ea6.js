@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8392],{8392:e=>{e.exports=JSON.parse('{"all":"सभी","document":"दस्तावेज़","read":"पढ़ें","tutorial":"ट्यूटोरियल"}')}}]);

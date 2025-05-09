@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6140],{96140:e=>{e.exports=JSON.parse('{"all":"\xd6sszes","document":"dokumentum","read":"olvas\xe1s","tutorial":"bemutat\xf3"}')}}]);

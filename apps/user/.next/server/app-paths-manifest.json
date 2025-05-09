@@ -1,0 +1,21 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/bind/[platform]/page": "app/bind/[platform]/page.js",
+  "/oauth/[platform]/page": "app/oauth/[platform]/page.js",
+  "/(main)/page": "app/(main)/page.js",
+  "/(main)/privacy-policy/page": "app/(main)/privacy-policy/page.js",
+  "/(main)/purchasing/order/page": "app/(main)/purchasing/order/page.js",
+  "/(main)/tos/page": "app/(main)/tos/page.js",
+  "/(main)/purchasing/page": "app/(main)/purchasing/page.js",
+  "/(main)/(user)/affiliate/page": "app/(main)/(user)/affiliate/page.js",
+  "/(main)/(user)/announcement/page": "app/(main)/(user)/announcement/page.js",
+  "/(main)/(user)/dashboard/page": "app/(main)/(user)/dashboard/page.js",
+  "/(main)/(user)/document/page": "app/(main)/(user)/document/page.js",
+  "/(main)/(user)/order/page": "app/(main)/(user)/order/page.js",
+  "/(main)/(user)/payment/page": "app/(main)/(user)/payment/page.js",
+  "/(main)/(user)/profile/page": "app/(main)/(user)/profile/page.js",
+  "/(main)/(user)/subscribe/page": "app/(main)/(user)/subscribe/page.js",
+  "/(main)/(user)/wallet/page": "app/(main)/(user)/wallet/page.js",
+  "/(main)/(user)/ticket/page": "app/(main)/(user)/ticket/page.js"
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5579],{25579:i=>{i.exports=JSON.parse('{"accountBalance":"Soldul contului","commission":"Comision","copyInviteLink":"Copiază linkul de invitație","copySuccess":"Linkul de invitație a fost copiat cu succes","giftAmount":"Sumă Cadou","inviteCode":"Cod de invitație","recharge":"Re\xeencărcare"}')}}]);

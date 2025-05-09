@@ -1,0 +1,1 @@
+"use strict";exports.id=88926,exports.ids=[88926],exports.modules={88926:i=>{i.exports=JSON.parse('{"commissionInfo":"统计金额，邀请佣金自动转入余额","commissionRate":"佣金比例","copyInviteLink":"复制邀请链接","copySuccess":"复制成功","inviteCode":"邀请码","inviteRecords":"邀请记录","registrationTime":"注册时间","totalCommission":"佣金总额","userIdentifier":"用户标识符"}')}};

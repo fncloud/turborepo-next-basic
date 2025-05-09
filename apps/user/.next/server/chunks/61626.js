@@ -1,0 +1,1 @@
+"use strict";exports.id=61626,exports.ids=[61626],exports.modules={61626:o=>{o.exports=JSON.parse('{"accountBalance":"Kontosaldo","commission":"Kommisjon","copyInviteLink":"Kopier invitasjonslenke","copySuccess":"Invitasjonslenke kopiert","giftAmount":"Gavebel\xf8p","inviteCode":"invitasjonskode","recharge":"Lad opp"}')}};

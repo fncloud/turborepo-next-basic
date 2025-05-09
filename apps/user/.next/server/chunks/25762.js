@@ -1,0 +1,1 @@
+"use strict";exports.id=25762,exports.ids=[25762],exports.modules={25762:s=>{s.exports=JSON.parse('{"amount":"金額","assetOverview":"資產概覽","balance":"餘額","commission":"佣金","createdAt":"時間","giftAmount":"禮物金額","totalAssets":"資產概覽","type":{"0":"類型","1":"充值","2":"提取","3":"購買","4":"退款","5":"獎勵","6":"佣金"}}')}};

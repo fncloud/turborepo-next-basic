@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6996],{46996:e=>{e.exports=JSON.parse('{"all":"kaikki","document":"Asiakirja","read":"lukea","tutorial":"Opetusohjelma"}')}}]);

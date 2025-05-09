@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2079],{32079:e=>{e.exports=JSON.parse('{"commissionInfo":"统计金额，邀请佣金自动转入余额","commissionRate":"佣金比例","copyInviteLink":"复制邀请链接","copySuccess":"复制成功","inviteCode":"邀请码","inviteRecords":"邀请记录","registrationTime":"注册时间","totalCommission":"佣金总额","userIdentifier":"用户标识符"}')}}]);

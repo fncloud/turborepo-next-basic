@@ -1,0 +1,1 @@
+"use strict";exports.id=68707,exports.ids=[68707],exports.modules={68707:e=>{e.exports=JSON.parse('{"accountBalance":"口座残高","commission":"手数料","copyInviteLink":"招待リンクをコピー","copySuccess":"招待リンクのコピーに成功しました","giftAmount":"ギフト金額","inviteCode":"招待コード","recharge":"チャージ"}')}};

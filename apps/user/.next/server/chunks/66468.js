@@ -1,0 +1,1 @@
+"use strict";exports.id=66468,exports.ids=[66468],exports.modules={66468:i=>{i.exports=JSON.parse('{"commissionInfo":"統計金額、招待手数料は自動的に残高に転送されます","commissionRate":"手数料率","copyInviteLink":"招待リンクをコピー","copySuccess":"コピー成功","inviteCode":"招待コード","inviteRecords":"招待記録","registrationTime":"登録時間","totalCommission":"総手数料","userIdentifier":"ユーザー識別子"}')}};

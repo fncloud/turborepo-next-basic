@@ -1,0 +1,1 @@
+"use strict";exports.id=53442,exports.ids=[53442],exports.modules={53442:i=>{i.exports=JSON.parse('{"accountBalance":"Tilin saldo","commission":"Komissio","copyInviteLink":"Kopioi kutsulinkki","copySuccess":"Kutsulinkki kopioitu onnistuneesti","giftAmount":"Lahjan m\xe4\xe4r\xe4","inviteCode":"kutsukoodi","recharge":"lataa saldoa"}')}};

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7912],{27912:e=>{e.exports=JSON.parse('{"accountBalance":"계좌 잔액","commission":"커미션","copyInviteLink":"초대 링크 복사","copySuccess":"초대 링크가 성공적으로 복사되었습니다","giftAmount":"선물 금액","inviteCode":"초대 코드","recharge":"충전"}')}}]);

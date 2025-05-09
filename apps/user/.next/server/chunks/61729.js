@@ -1,0 +1,1 @@
+"use strict";exports.id=61729,exports.ids=[61729],exports.modules={61729:i=>{i.exports=JSON.parse('{"accountBalance":"Số dư t\xe0i khoản","commission":"Hoa hồng","copyInviteLink":"Sao ch\xe9p li\xean kết mời","copySuccess":"Sao ch\xe9p li\xean kết mời th\xe0nh c\xf4ng","giftAmount":"Số tiền qu\xe0 tặng","inviteCode":"M\xe3 mời","recharge":"Nạp tiền"}')}};

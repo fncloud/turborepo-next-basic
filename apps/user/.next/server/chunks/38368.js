@@ -1,0 +1,1 @@
+"use strict";exports.id=38368,exports.ids=[38368],exports.modules={38368:e=>{e.exports=JSON.parse('{"accountBalance":"موجودی حساب","commission":"کمیسیون","copyInviteLink":"کپی کردن لینک دعوت","copySuccess":"لینک دعوت با موفقیت کپی شد","giftAmount":"مقدار هدیه","inviteCode":"کد دعوت","recharge":"شارژ مجدد"}')}};

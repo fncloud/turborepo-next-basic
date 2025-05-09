@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9697],{59697:e=>{e.exports=JSON.parse('{"affiliate":"我的邀请","announcement":"公告列表","dashboard":"主页","document":"使用文档","finance":"财务","help":"帮助","logout":"退出登录","order":"订单列表","payment":"订单详情","personal":"个人","profile":"个人中心","server":"服务","subscribe":"购买订阅","ticket":"我的工单","wallet":"财务中心"}')}}]);

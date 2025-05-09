@@ -1,0 +1,1 @@
+"use strict";exports.id=78448,exports.ids=[78448],exports.modules={78448:e=>{e.exports=JSON.parse('{"accountBalance":"ยอดเงินในบัญชี","commission":"คอมมิชชั่น","copyInviteLink":"คัดลอกลิงก์เชิญ","copySuccess":"คัดลอกลิงก์เชิญสำเร็จ","giftAmount":"จำนวนของขวัญ","inviteCode":"รหัสเชิญ","recharge":"เติมเงิน"}')}};

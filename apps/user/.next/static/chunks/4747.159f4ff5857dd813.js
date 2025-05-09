@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4747],{94747:e=>{e.exports=JSON.parse('{"commissionInfo":"統計金額，邀請佣金自動轉入餘額","commissionRate":"佣金比例","copyInviteLink":"複製邀請連結","copySuccess":"複製成功","inviteCode":"邀請碼","inviteRecords":"邀請記錄","registrationTime":"註冊時間","totalCommission":"佣金總額","userIdentifier":"用戶識別碼"}')}}]);

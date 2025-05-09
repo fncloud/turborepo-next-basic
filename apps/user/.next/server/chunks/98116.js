@@ -1,0 +1,1 @@
+"use strict";exports.id=98116,exports.ids=[98116],exports.modules={98116:a=>{a.exports=JSON.parse('{"accountBalance":"Hesap Bakiyesi","commission":"Komisyon","copyInviteLink":"Davet Bağlantısını Kopyala","copySuccess":"Davet bağlantısı başarıyla kopyalandı","giftAmount":"Hediye Miktarı","inviteCode":"davetKodu","recharge":"şarj et"}')}};

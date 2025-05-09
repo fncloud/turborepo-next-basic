@@ -1,0 +1,1 @@
+"use strict";exports.id=2147,exports.ids=[2147],exports.modules={24528:s=>{s.exports=JSON.parse('{"amount":"مقدار","assetOverview":"بررسی دارایی","balance":"تعادل","commission":"کمیسیون","createdAt":"زمان","giftAmount":"مقدار هدیه","totalAssets":"بررسی کلی دارایی‌ها","type":{"0":"نوع","1":"شارژ","2":"برداشت","3":"خرید","4":"بازپرداخت","5":"پاداش","6":"کمیسیون"}}')}};

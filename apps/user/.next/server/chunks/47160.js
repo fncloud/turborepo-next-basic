@@ -1,0 +1,1 @@
+"use strict";exports.id=47160,exports.ids=[47160],exports.modules={47160:e=>{e.exports=JSON.parse('{"affiliate":"我的邀請","announcement":"公告列表","dashboard":"主頁","document":"使用文件","finance":"財務","help":"幫助","logout":"登出","order":"訂單列表","payment":"訂單詳情","personal":"個人","profile":"個人中心","server":"服務","subscribe":"購買訂閱","ticket":"我的工單","wallet":"財務中心"}')}};

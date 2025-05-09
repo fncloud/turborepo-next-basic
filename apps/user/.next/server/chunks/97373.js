@@ -1,0 +1,1 @@
+"use strict";exports.id=97373,exports.ids=[97373],exports.modules={97373:e=>{e.exports=JSON.parse('{"accountBalance":"账户余额","commission":"佣金","copyInviteLink":"复制邀请链接","copySuccess":"邀请链接复制成功","giftAmount":"赠送金额","inviteCode":"邀请码","recharge":"充值"}')}};

@@ -1,0 +1,1 @@
+"use strict";exports.id=90146,exports.ids=[90146],exports.modules={90146:e=>{e.exports=JSON.parse('{"accountBalance":"Баланс рахунку","commission":"Комісія","copyInviteLink":"Скопіювати посилання запрошення","copySuccess":"Посилання для запрошення успішно скопійовано","giftAmount":"Сума подарунка","inviteCode":"Код запрошення","recharge":"Поповнення"}')}};

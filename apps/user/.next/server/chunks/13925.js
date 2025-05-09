@@ -1,0 +1,1 @@
+"use strict";exports.id=13925,exports.ids=[13925],exports.modules={13925:s=>{s.exports=JSON.parse('{"amount":"сумма","assetOverview":"Обзор актива","balance":"Баланс","commission":"Комиссия","createdAt":"время","giftAmount":"Сумма подарка","totalAssets":"Обзор активов","type":{"0":"Тип","1":"Пополнение","2":"Вывод","3":"Покупка","4":"Возврат","5":"Награда","6":"Комиссия"}}')}};
